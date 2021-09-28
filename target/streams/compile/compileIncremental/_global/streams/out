@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/home/jkh/Desktop/My-FFT/src/main/scala/FFT/FFT.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(FFT.myFFT, FFT.myFFTIO)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(FFT.myFFT, FFT.myFFTIO)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/home/jkh/Desktop/My-FFT/src/main/scala/FFT/FFT.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: FFT.myFFT, FFT.myFFTIO[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to /home/jkh/Desktop/My-FFT/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.3.0:compile for Scala 2.12.10[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.3.0:compile for Scala 2.12.10[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 24edefdf for Scala compiler version 2.12.10[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Xsource:2.11[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/jkh/Java/jdk1.8.0_301/jre/lib/resources.jar:/home/jkh/Java/jdk1.8.0_301/jre/lib/rt.jar:/home/jkh/Java/jdk1.8.0_301/jre/lib/sunrsasign.jar:/home/jkh/Java/jdk1.8.0_301/jre/lib/jsse.jar:/home/jkh/Java/jdk1.8.0_301/jre/lib/jce.jar:/home/jkh/Java/jdk1.8.0_301/jre/lib/charsets.jar:/home/jkh/Java/jdk1.8.0_301/jre/lib/jfr.jar:/home/jkh/Java/jdk1.8.0_301/jre/classes:/home/jkh/.sbt/boot/scala-2.12.10/lib/scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/jkh/Desktop/My-FFT/target/scala-2.12/classes:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/json4s/json4s-core_2.12/3.6.7/json4s-core_2.12-3.6.7.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/json4s/json4s-scalap_2.12/3.6.7/json4s-scalap_2.12-3.6.7.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.8/scalatest_2.12-3.0.8.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/edu/berkeley/cs/firrtl-interpreter_2.12/1.2.8/firrtl-interpreter_2.12-1.2.8.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/scala-logging/scala-logging_2.12/3.9.0/scala-logging_2.12-3.9.0.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/junit/junit/4.12/junit-4.12.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/edu/berkeley/cs/treadle_2.12/1.1.8/treadle_2.12-1.1.8.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.11/jansi-1.11.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10.1/joda-time-2.10.1.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/antlr/antlr4-runtime/4.7.1/antlr4-runtime-4.7.1.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/net/jcazevedo/moultingyaml_2.12/0.4.1/moultingyaml_2.12-0.4.1.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/json4s/json4s-ast_2.12/3.6.7/json4s-ast_2.12-3.6.7.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/joda/joda-convert/2.2.0/joda-convert-2.2.0.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.4.0/protobuf-java-3.4.0.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/yaml/snakeyaml/1.24/snakeyaml-1.24.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.8/scalactic_2.12-3.0.8.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.2.0/scala-xml_2.12-1.2.0.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/nscala-time/nscala-time_2.12/2.22.0/nscala-time_2.12-2.22.0.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/edu/berkeley/cs/chisel3_2.12/3.2.8/chisel3_2.12-3.2.8.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/edu/berkeley/cs/chisel-iotesters_2.12/1.3.8/chisel-iotesters_2.12-1.3.8.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-text/1.7/commons-text-1.7.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/json4s/json4s-native_2.12/3.6.7/json4s-native_2.12-3.6.7.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.9/commons-lang3-3.9.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalacheck/scalacheck_2.12/1.14.0/scalacheck_2.12-1.14.0.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/scopt/scopt_2.12/3.7.1/scopt_2.12-3.7.1.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/edu/berkeley/cs/firrtl_2.12/1.2.8/firrtl_2.12-1.2.8.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar:/home/jkh/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-jline/2.12.1/scala-jline-2.12.1.jar:/home/jkh/.sbt/boot/scala-2.12.10/lib/scala-reflect.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 12.038200764 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m
